@@ -14,3 +14,6 @@ Git is a distributed version control system used to track changes in source code
 - Resolve merge conflicts manually.
 - Create a pull request.
 
+## Conflict Demo
+
+This content is from the main branch.
